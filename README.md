@@ -35,4 +35,4 @@ Weight Tracker Pro is a modern, user-friendly web application designed to help y
 
 ## 🖥️ Live Demo
 
-Try Weight Tracker Pro now: [Live Demo]([https://weight-tracker-pro.demo.app](https://weight-tracker-pro.netlify.app/)
+Try Weight Tracker Pro now: [Live Demo] (https://weight-tracker-pro.netlify.app/)
