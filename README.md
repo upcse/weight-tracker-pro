@@ -1,4 +1,4 @@
-# Weight Tracker Pro - Frontedf
+# Weight Tracker Pro - Frontend
 
 <div align="center">
   
