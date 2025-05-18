@@ -5,7 +5,7 @@ Weight Tracker Pro - Frontend
 
 <div align="center">
   
-![Weight Tracker Pro Logo](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3pzO4XRL0R5av-cPLcnxjgBy9cxpTK15W0sm-uD1pdTb0qF9V)
+![Weight Tracker Pro Logo](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-4BJtfquk1sIwDToNq0DjkiEwsi0JmyfBmk-3h45GyAv4MNR8)
 
 
 **Track your weight loss journey with precision and motivation**
